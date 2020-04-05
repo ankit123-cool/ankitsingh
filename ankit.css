@@ -1,0 +1,8 @@
+body{background-color:gray;}
+h2.sd{color:red; text-align:center; text-decoration:underline;}
+h2.as{color:white; text-align:center; }
+p{font-size: 15pt; font-family:arial;}
+a{color:blue;}
+a.festival{color:white;}
+a.inter{color:red;}
+.center{margin-left:auto; margin-right:auto; display:block;}
